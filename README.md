@@ -8,6 +8,5 @@ Each file includes:
 - The kata description
 - My solution
 
-- 
 ![Codewars](https://www.codewars.com/users/Maz-hub/badges/large)
 
